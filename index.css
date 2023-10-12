@@ -53,6 +53,10 @@
 /* https://piccalil.li/blog/a-modern-css-reset/ */
 
 /* Box sizing */
+html {
+  overflow-x: hidden;
+}
+
 *,
 *::before,
 *::after {
