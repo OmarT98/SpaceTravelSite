@@ -24,6 +24,10 @@
   --ff-sans-normal: "Barlow", sans-serif;
 }
 
+html{
+overflow-x: hidden;
+}
+
 @media (min-width: 35em) {
   :root {
     --fs-800: 5rem;
